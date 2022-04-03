@@ -6,3 +6,5 @@
 
 # Progamming/Markup languages -  HTML, CSS, JAVASCRIPT, Python, Oracle SQL, SQL lite, React JS(basics)
 # version control - GIT
+
+# I have successfully finished RS school mentorship program once time, but I didn't get a job offer, so I have worked a lot of projects during this course, for example: sites with HTML/CSS, calculator, virtual keyboard.
